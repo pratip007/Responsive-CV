@@ -1,0 +1,94 @@
+@media only screen and (max-width:768px)
+{
+@media only screen and (min-width:401px)
+{
+#cv{
+    font-size: 30px;
+}    
+
+#bod{
+    height: 180px;
+}
+#details{
+    font-size: 15px;
+}
+#photo{
+    height: 30%;
+}
+#pic{
+    width: 100%;
+}
+#tab{
+    font-size: 8px;
+}
+#tab1{
+    font-size: 12px;
+}
+#head{
+    font-size: 25px;
+}
+i{
+    font-size: 20px;
+}
+#tab2{
+    font-size: 13px;
+}
+#progressbar{
+    height: 18px;
+}
+#sign
+{
+    height: 60%;
+    width: 40%;
+}
+#txt{
+    font-size: 18px;
+}
+}
+}
+@media only screen and (max-width:400px)
+{
+#cv{
+    font-size: 30px;
+}    
+
+#bod{
+    height: 110px;
+}
+#details{
+    font-size: 10px;
+}
+#photo{
+    height: 30%;
+}
+#pic{
+    width: 100%;
+}
+#tab{
+    font-size: 6px;
+}
+#tab1{
+    font-size: 12px;
+}
+#head{
+    font-size: 23px;
+}
+i{
+    font-size: 17px;
+}
+#tab2{
+    font-size: 13px;
+}
+#progressbar{
+    height: 17px;
+}
+#sign
+{
+    height: 60%;
+    width: 40%;
+}
+#txt{
+    font-size: 17px;
+
+}
+}
